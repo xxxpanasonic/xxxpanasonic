@@ -6,8 +6,7 @@
 
 <div id="socials" align="center">
 <a href="telegram">
-<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-
-badge&logo=telegram&logo Color=white" alt="LinkedIn"/>
+<img src="https://github.com/user-attachments/assets/0852bc0c-ded0-48a3-95e1-c348458524d7/>
 </a>
 <a href="linkedin-url">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-
