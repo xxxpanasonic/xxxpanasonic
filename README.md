@@ -3,6 +3,11 @@
   <h3>Web Developer from Moscow</h3>
 </div>
 
+### About me
+- I'm currently learning **Vue 3, Game Dev**
+- Reach me by [Linkedin(linkedin-link), [email(mailto:alonewasser@mail.ru)
+- I speak Russian
+
 <div id="socials" align="center">
   <a href="telegram">
     <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" alt="telegram"/>
