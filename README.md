@@ -6,7 +6,7 @@
 
 <div id="socials" align="center">
 <a href="telegram">
-<img src="[https://github.com/user-attachments/assets/0852bc0c-ded0-48a3-95e1-c348458524d7](https://img.icons8.com/?size=100&id=63306&format=png&color=000000)/>
+<img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000 alt="telegram"/>
 </a>
 <a href="linkedin-url">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-
