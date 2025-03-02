@@ -5,7 +5,7 @@
 
 ### About me
 - I'm currently learning **Vue 3, Game Dev**
-- Reach me by [Linkedin(linkedin-link), [email(mailto:alonewasser@mail.ru)
+- Reach me by [email](mailto:alonewasser@mail.ru).
 - I speak Russian
 
 
