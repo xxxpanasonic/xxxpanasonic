@@ -28,7 +28,7 @@
 
 
 <div id="stat" align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xxxpanasonic&theme=default">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xxxpanasonic&theme=default">
   
 </div>
