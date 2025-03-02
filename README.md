@@ -7,7 +7,7 @@
 - I'm currently learning **Vue 3, Game Dev**
 - Reach me by [email](mailto:alonewasser@mail.ru).
 - I speak Russian
-- My second profile https://github.com/alonewasser
+- My second profile [github](https://github.com/alonewasser)
 
   <a href="telegram">
     <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" alt="telegram"/>
