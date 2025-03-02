@@ -26,6 +26,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="40" height="40"/>&nbsp;
 </div>
 
+</br>
+</br>
+
 
 <div id="stat" align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xxxpanasonic&theme=default">
