@@ -4,7 +4,7 @@
 </div>
 
 ### About me
-- I'm currently learning **Vue 3, Game Dev**
+- I'm currently learning **Vue 3**
 - Reach me by [email](mailto:alonewasser@mail.ru).
 - I speak Russian
 - My second profile [github](https://github.com/alonewasser)
